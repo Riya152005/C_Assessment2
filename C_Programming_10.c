@@ -6,5 +6,5 @@ int main()
 	scanf("%d",&num);
 	x=num/10;
 	y=num%10;
-	printf("%d",x<=y);
+	printf("%d",x<y);
 }
